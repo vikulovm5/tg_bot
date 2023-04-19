@@ -16,7 +16,7 @@
 
 У вас есть 3 токена? Хорошо, скачивайте бота:
 ```
-git clone https://github.com/vikulovm5/tg_bot.git
+git clone https://github.com/vikulovm5/tg_bot.git 
 ```
 Войдите в папку с ботом:
 ```
